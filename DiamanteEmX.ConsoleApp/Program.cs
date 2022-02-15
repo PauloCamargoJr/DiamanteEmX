@@ -87,7 +87,6 @@ namespace DiamanteEmX.ConsoleApp
 
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Valor par não pode ser aceito!");
-                Console.ForegroundColor = ConsoleColor.White;
 
             }
 
