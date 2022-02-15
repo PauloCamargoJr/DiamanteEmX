@@ -25,9 +25,7 @@ namespace DiamanteEmX.ConsoleApp
                     for (int j = 0; j < i; j++)
                     {
                         if (i % 2 == 1)
-                        {
                             Console.Write("X");
-                        }
                     }
                     if (i % 2 == 1)
                         Console.Write("\n");
@@ -46,9 +44,7 @@ namespace DiamanteEmX.ConsoleApp
                     for (int j = 0; j < i; j++)
                     {
                         if (i % 2 == 1)
-                        {
                             Console.Write("X");
-                        }
                     }
                     if (i % 2 == 1)
                         Console.Write("\n");
